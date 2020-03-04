@@ -8,4 +8,4 @@ Projeto Netflix Clone  - Projeto pratico feito para o curso de Front-end da Dank
 
 ### Para melhor navegação
 ###### 1 - os slides passam sozinhos
-###### 2 - as duas primeiras séries do catálogo, tem conteúdo dentro, como se fosse o player da netflix.
+###### 2 - as duas primeiras séries do catálogo(Stranger Things e Friends), tem conteúdo dentro, como se fosse o player da netflix.
