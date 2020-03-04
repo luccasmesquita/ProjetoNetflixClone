@@ -1,7 +1,7 @@
 # Projeto Netflix Clone
 
 ### Navegar pelo Projeto 
-[Adventure Super](https://luccasmesquita.github.io/ProjetoNetflixClone/index.html)
+[Netflix Clone](https://luccasmesquita.github.io/ProjetoNetflixClone/index.html)
 
 # Intuito
 Projeto Netflix Clone  - Projeto pratico feito para o curso de Front-end da Dankicode. Projeto clone da interface do Netflix, feito em HTML, CSS, JQuery e Responsivo feito em css.
