@@ -7,5 +7,5 @@
 Projeto Netflix Clone  - Projeto pratico feito para o curso de Front-end da Dankicode. Projeto clone da interface do Netflix, feito em HTML, CSS, JQuery e Responsivo feito em css.
 
 ### Para melhor navegação
-1 - os slides passam sozinhos
-2 - as duas primeiras séries do catálogo, tem conteúdo dentro, como se fosse o player da netflix.
+###### 1 - os slides passam sozinhos
+###### 2 - as duas primeiras séries do catálogo, tem conteúdo dentro, como se fosse o player da netflix.
